@@ -1,4 +1,4 @@
-### Hello world ! I`m Tatiana 👋😊
+### Hello world ! I`m Tatiana 👋
 
 🔍 I'm currently looking for a job as a Data Analyst
 
@@ -6,9 +6,7 @@
 
 ⚡Looking for projects related to: Market Research, Measurement & Consulting. 
 
-💻 Python & SQL
-
-🖌️Power Bi & Tableau
+💻 Python & SQL 🖌️Power Bi & Tableau
 
 📊 Check my work on Tableau https://public.tableau.com/app/profile/tatiana.naranjo#!/
 
