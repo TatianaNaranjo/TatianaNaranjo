@@ -9,7 +9,3 @@
 💻 Python & SQL 🖌️Power Bi & Tableau
 
 📊 Check my work on Tableau https://public.tableau.com/app/profile/tatiana.naranjo#!/
-
-📧 Contact me: https://www.linkedin.com/in/tatiana-naranjo-romero/
-
-✨ Hobbies: Travel, dance and organize. Yes! I`m a fan of Marie Kondo and The Home edit. 
